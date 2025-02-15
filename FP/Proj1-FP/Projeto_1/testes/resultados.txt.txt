@@ -1,0 +1,1 @@
+A ler ficheiro C:\Users\inesc\Desktop\FP-pytest\Projeto_1\testar_tudo.py
