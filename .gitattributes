@@ -4,6 +4,9 @@
 # Explicitly set ActionScript (.as) files as Assembly
 *.as linguist-language=Assembly
 
+# Treat Prolog files as lower priority in language stats
+*.pl linguist-vendored
+
 # Mark common generated files as ignored
 *.min.js linguist-vendored
 *.lock linguist-vendored
