@@ -1,0 +1,27 @@
+# Ignore Jupyter Notebooks in language statistics
+*.ipynb linguist-vendored
+
+# Explicitly set ActionScript (.as) files as Assembly
+*.as linguist-language=Assembly
+
+# Mark common generated files as ignored
+*.min.js linguist-vendored
+*.lock linguist-vendored
+*.class linguist-vendored
+*.exe linguist-vendored
+*.dll linguist-vendored
+*.so linguist-vendored
+*.o linguist-vendored
+*.a linguist-vendored
+
+# Consider documentation as non-code
+*.md linguist-documentation
+*.txt linguist-documentation
+*.rst linguist-documentation
+*.html linguist-vendored
+
+# Ignore backup files or temporary files
+*~ linguist-vendored
+*.bak linguist-vendored
+*.swp linguist-vendored
+
