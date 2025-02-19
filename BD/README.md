@@ -1,4 +1,4 @@
-# 📘 **BD- Database Systems README**
+# 📘 **BD- Database Systems**
 
 ## 📌 **Course Overview**
 This course covers **database systems**, including:
