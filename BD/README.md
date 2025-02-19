@@ -42,4 +42,40 @@ The project includes a **detailed report** on the development of a **healthcare 
 
 ---
 
+
+
+## 🛠 **How to Test the Project**
+
+### 📌 **1. Setup the Environment with Docker**
+🔹 Ensure **Docker** is installed and running.  
+🔹 Navigate to the project directory and run:
+```bash
+docker-compose up -d
+```
+🔹 This will set up the necessary **PostgreSQL database**.
+
+### 📌 **2. Populate the Database**
+🔹 Run the **Python script** to generate and execute SQL **INSERT statements**:
+```bash
+python populate_database.py
+```
+🔹 Alternatively, manually run the generated **SQL INSERT statements** in **Jupyter Labs**.
+
+### 📌 **3. Access the Database via Jupyter Labs**
+🔹 Open **Jupyter Labs** and connect to the database using a Jupyter SQL extension.  
+🔹 Execute SQL queries to verify the data:
+```sql
+SELECT * FROM consultations LIMIT 10;
+```
+🔹 Test various constraints and integrity rules applied.
+
+### 📌 **4. Test the RESTful API**
+🔹 Start the web service
+```bash
+curl -X GET http://localhost:5000/api/consultations
+```
+🔹 Ensure the API returns expected JSON responses.
+
+---
+
 ✨ *This course provides hands-on experience in designing and implementing database-driven applications!* 🚀
