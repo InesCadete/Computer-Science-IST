@@ -1,4 +1,4 @@
-# 🌟 **ASA README** 🌟
+# 🌟 **ASA- analysis and synthesis of algorithms** 🌟
 
 ## 📌 **Course Overview**
 This course covers the **analysis and synthesis of algorithms**, including:
