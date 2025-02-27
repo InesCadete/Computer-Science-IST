@@ -1,4 +1,4 @@
-# 🖥️ **IPM- Human-Machine Interaction** 🖥️
+# 🖥️ **IPM- Person-Machine Interaction** 🖥️
 
 ---
 
