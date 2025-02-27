@@ -20,7 +20,7 @@ By the end of the course, students will have a strong understanding of how to de
 
 ## 📝 **Project Overview**
 
-### 🎨 **Project 1: Application Design in Figma**
+### 🎨 **Project 1: Application Design using Figma**
 
 The first project was focused on **designing an application** using **Figma**. The goal was to apply **design principles** and **UI rules** to create an intuitive and aesthetically pleasing interface. Key aspects of the project include:
 
