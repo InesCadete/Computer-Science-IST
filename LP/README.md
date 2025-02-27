@@ -68,4 +68,4 @@ To test your solution, follow these steps:
 2. **Run the PROLOG code**:
    If you're using SWI-Prolog, load the file with the following command:
    ```bash
-   swipl nome_do_arquivo.pl
+   swipl name_of_file.pl
