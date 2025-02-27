@@ -17,4 +17,8 @@ IST-KVS is a **concurrent key-value storage system** that supports **data creati
 
 ---
 
-## 📜 **Project Structure**
+## 🛠️ **Build & Run**
+```bash
+make        # Compile the project
+./ist-kvs   # Run the key-value store
+
