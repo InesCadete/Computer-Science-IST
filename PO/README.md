@@ -1,4 +1,4 @@
-# PO- Object-Oriented Programming and the Java
+# PO- Object-Oriented Programming 
 
 ---
 
