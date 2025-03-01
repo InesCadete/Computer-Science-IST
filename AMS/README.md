@@ -1,7 +1,7 @@
 # 📊 Analysis and Modelation of Systems (AMS)  
 
 ## 📌 Course Overview  
-This course focuses on **Systems Engineering** methodologies, **Conceptual Modeling**, and **Requirements Engineering**, covering frameworks like **ISO 42010**, **Zachman**, **MDA**, and **MDE**. Topics include:  
+This course focuses on **Systems Engineering** methodologies, **Conceptual Modeling**, and **Requirements Engineering**.  
 
 - 🏗 **Systems Engineering**: Architecture, stakeholders, concerns, viewpoints, and models.  
 - 🔍 **Requirements Engineering**: Elicitation, validation, and traceability of requirements.  
