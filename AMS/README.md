@@ -10,14 +10,6 @@ This course focuses on **Systems Engineering** methodologies, **Conceptual Model
 
 ---
 
-## 📁 Course Materials  
-Each folder contains:  
-📂 `Slides/` – 📚 Lecture slides and notes.  
-📂 `Exercises/` – 🏋️ Practical exercises and assignments.  
-📂 `Project/` – 🔬 The main course project (detailed below).  
-
----
-
 ## 🏆 Course Project – **BIOGateBox & BioBox**  
 
 ### 🚀 **Project Objective**  
